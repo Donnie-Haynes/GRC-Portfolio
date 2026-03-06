@@ -107,3 +107,27 @@ All resources referenced in this project are publicly available at no cost:
 - **OpenVAS (free vulnerability scanner)** — [openvas.org](https://www.openvas.org)
 
 ---
+
+## 🚀 What I Would Do Next (Real-World Extension)
+
+If this were a real engagement, the next steps after delivering this package would be:
+
+1. **Gap Analysis** — Map current controls against NIST CSF 2.0 targets to produce a maturity score
+2. **Control Implementation Tracking** — Use the Risk Register to assign owners and track remediation to closure
+3. **SOC 2 Readiness Assessment** — NimbusHR's client contracts likely require SOC 2 Type II; this package forms the foundation
+4. **Tabletop Exercise** — Design and facilitate an IR tabletop scenario based on the top risks identified
+5. **Vendor Risk Programme** — Build out a full third-party risk management (TPRM) workflow
+
+---
+
+## 👤 About Me
+
+I'm transitioning deeper into cybersecurity with a focus on **Incident Response → GRC → Consulting**. I hold the Google Cybersecurity Certificate and am currently studying for CompTIA Security+.
+
+This portfolio project was built entirely using free, publicly available frameworks to demonstrate practical GRC skills without requiring enterprise tooling.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dvhii/) | 🌐 [More projects](#)
+
+---
+
+*All company names, data, and scenarios in this repository are fictional and created for educational and portfolio purposes only.*
