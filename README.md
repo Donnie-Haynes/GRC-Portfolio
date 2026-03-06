@@ -83,3 +83,27 @@ Risks are scored using a **qualitative 5×5 matrix**:
 | 1–5 | 🟢 LOW | Monitor and review annually |
 
 ---
+
+
+## 🗂️ About the Fictional Company
+
+**NimbusHR Inc.**  
+Cloud-based HR SaaS platform · 40 employees · 200 small business clients  
+Infrastructure: AWS (EC2, S3, RDS) · No dedicated security team  
+Data handled: SSNs, salary data, onboarding documents, employee PII
+
+*NimbusHR is entirely fictional and was created for portfolio demonstration purposes only.*
+
+---
+
+## 📚 Free Resources Used
+
+All resources referenced in this project are publicly available at no cost:
+
+- **NIST CSF 2.0** — [nist.gov/cyberframework](https://www.nist.gov/cyberframework)
+- **MITRE ATT&CK** — [attack.mitre.org](https://attack.mitre.org)
+- **CISA Known Exploited Vulnerabilities** — [cisa.gov/known-exploited-vulnerabilities-catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **AWS Security Best Practices** — [docs.aws.amazon.com/security](https://docs.aws.amazon.com/security)
+- **OpenVAS (free vulnerability scanner)** — [openvas.org](https://www.openvas.org)
+
+---
