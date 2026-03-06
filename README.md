@@ -53,3 +53,17 @@ The Risk Assessment answers the question: *"What could go wrong, how likely is i
 | R-008 | Unassessed Third-Party Vendor Risk | 🟢 LOW | 6/25 |
 
 ---
+
+
+##  Methodology & Frameworks
+
+### NIST Cybersecurity Framework 2.0
+All documents in this package align to the NIST CSF 2.0, which organises cybersecurity activities into six functions:
+
+```
+GOVERN → IDENTIFY → PROTECT → DETECT → RESPOND → RECOVER
+```
+
+This GRC package primarily addresses **GOVERN** (policies, roles, oversight) and **IDENTIFY** (asset management, risk assessment) — the foundation that all other security activities are built on.
+
+**Free resource:** [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework)
