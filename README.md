@@ -37,3 +37,19 @@ The Risk Assessment answers the question: *"What could go wrong, how likely is i
 - **8 Risk Findings** — each scored using a qualitative 5×5 Likelihood × Impact matrix
 - **90-Day Remediation Roadmap** with specific free tooling recommendations
 - **NIST CSF 2.0 subcategory mappings** for every finding (e.g., PR.AA-03, ID.RA-01)
+
+
+### Risk findings summary:
+
+| ID | Risk | Rating | Score |
+|----|------|--------|-------|
+| R-001 | No MFA on Admin Accounts | 🔴 CRITICAL | 25/25 |
+| R-002 | Insufficient Encryption of PII at Rest | 🔴 CRITICAL | 20/25 |
+| R-003 | No Incident Response Plan | 🟠 HIGH | 16/25 |
+| R-004 | No Security Awareness Training | 🟠 HIGH | 16/25 |
+| R-005 | No Patch Management Programme | 🟡 MEDIUM | 12/25 |
+| R-006 | Excessive Privileges / No Access Reviews | 🟡 MEDIUM | 9/25 |
+| R-007 | Insufficient Logging & Monitoring | 🟡 MEDIUM | 9/25 |
+| R-008 | Unassessed Third-Party Vendor Risk | 🟢 LOW | 6/25 |
+
+---
