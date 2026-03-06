@@ -67,3 +67,19 @@ GOVERN → IDENTIFY → PROTECT → DETECT → RESPOND → RECOVER
 This GRC package primarily addresses **GOVERN** (policies, roles, oversight) and **IDENTIFY** (asset management, risk assessment) — the foundation that all other security activities are built on.
 
 **Free resource:** [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework)
+
+
+### Risk Scoring
+Risks are scored using a **qualitative 5×5 matrix**:
+- **Likelihood** (1–5): How probable is this threat materialising?
+- **Impact** (1–5): How severe would the business damage be?
+- **Risk Score** = Likelihood × Impact (max 25)
+
+| Score Range | Rating | Action Required |
+|-------------|--------|----------------|
+| 20–25 | 🔴 CRITICAL | Immediate remediation |
+| 12–19 | 🟠 HIGH | Remediate within 30–60 days |
+| 6–11 | 🟡 MEDIUM | Remediate within 90 days |
+| 1–5 | 🟢 LOW | Monitor and review annually |
+
+---
