@@ -18,7 +18,7 @@ The goal of this project is to replicate the type of documentation a GRC analyst
 
 | # | Document | Framework Reference | Status |
 |---|----------|-------------------|--------|
-| 01 | [Risk Assessment](./01-risk-assessment/NimbusHR_Risk_Assessment_3.pdf) | NIST CSF 2.0 — GOVERN, IDENTIFY | ✅ Complete |
+| 01 | [Risk Assessment](01-risk-assessment/NimbusHR_Risk_Assessment_3.pdf.pdf | NIST CSF 2.0 — GOVERN, IDENTIFY | ✅ Complete |
 | 02 | [Risk Register](./02-risk-register/NimbusHR_Risk_Register.xlsx) | NIST CSF 2.0 — IDENTIFY (ID.RA) | ✅ Complete |
 | 03 | Information Security Policy | NIST CSF 2.0 — GOVERN (GV.PO) | 🔄 In Progress |
 
